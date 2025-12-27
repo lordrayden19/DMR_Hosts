@@ -1,0 +1,39 @@
+#	DMR_Hosts.txt
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#	Origional idea from Adrian Craig (M0GLJ)
+#	Adapted for DMRID.ORG by YC5NCB
+#	Updated 26 June 2025
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. NO SPACES!!
+#	Downloaded from http://www.pistar.uk/downloads/DMR_Hosts.txt
+######################################################################################################
+#				BrandMeister Hosts Below
+######################################################################################################
+# Country			DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
+BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
+######################################################################################################
+#				HBLink Indonesia ID Hosts Below
+######################################################################################################
+# Name				DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+HB_K2PI_DUPLEX		0000	103.16.117.140		passw0rd	62031
+HB_K2PI_SIMPLEX		0000	103.16.117.140		passw0rd	62030
+HB_RIAU_DUPLEX		0000	103.16.117.118		passw0rd	62031
+HB_RIAU_SIMPLEX		0000	103.16.117.118		passw0rd	62030
+HB_DUMAI_DUPLEX	0000	103.27.206.244		passw0rd	62031
+HB_DUMAI_SIMPLEX	0000	103.27.206.244		passw0rd	62030
+HB_PELLWAN_DUPLEX	0000	103.245.38.67		passw0rd	62031
+HB_PELLWAN_SIMPLEX	0000	103.245.38.67		passw0rd	62030
+HB_SUNDA_DUPLEX	0000	101.255.159.50		passw0rd	62030
+HB_SUNDA_SIMPLEX	0000	101.255.159.50		passw0rd	62031
+HB_JAWBAR_DUPLEX	0000	203.83.43.126		passw0rd	62031
+HB_JAWABAR_SIMPLEX	0000	203.83.43.126		passw0rd	62030
+HB_JATENG_DUPLEX	0000	sr1.dmrjateng.my.id	passw0rd	62031
+HB_JATENG_SIMPLEX	0000	sr1.dmrjateng.my.id	passw0rd	62030
+HB_JAWTIM_DUPLEX	0000	103.121.122.195		passw0rd	62031
+HB_JAWATIM_SIMPLEX	0000	103.121.122.195		passw0rd	62030
+HB_LINK_KRAPDMR		0000	103.174.114.231		passw0rd	62030
+BNPB          0000    103.187.146.133   passw0rd  62030
+######################################################################################################
