@@ -1,39 +1,78 @@
-#	DMR_Hosts.txt
+############################################################
+# Gabungan DMR Hosts - Auto Generated: 2026-01-23 15:26:51
+############################################################
+
+### Source: http://k2pi.org/data/DMR_Hosts.txt ###
+#	Custom DMR_Hosts.txt
+#
 #	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
-#	Origional idea from Adrian Craig (M0GLJ)
-#	Adapted for DMRID.ORG by YC5NCB
-#	Updated 26 June 2025
+#	Modified by Hemi (YC5NCB)
 #	The format of this file is the name of the reflector followed by its
-#	IP address / Hotname / Password. NO SPACES!!
-#	Downloaded from http://www.pistar.uk/downloads/DMR_Hosts.txt
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
 ######################################################################################################
+#
 #				BrandMeister Hosts Below
+#
 ######################################################################################################
 # Country			DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
 BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
 BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
-#				HBLink Indonesia ID Hosts Below
+#
+#				K2PI DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			Password	Port #
+##############################################################################################
+HB_GLB1_DUPL	0000	103.27.206.134		passw0rd	62030
+HB_GLB2_DUPL	0000	103.27.206.134		passw0rd	62031
+HB_K2PI_DUPL	0000	103.245.38.113		passw0rd	62031
+HB_K2PI_SIMP	0000	103.245.38.113		passw0rd	62030
+HB_PLW_DUPL	0000	103.16.117.140		passw0rd	62031
+HB_PLW_SIMP	0000	103.16.117.140		passw0rd	62030
+HB_RIAU_DUPL	0000	103.16.117.118		passw0rd	62031
+HB_RIAU_SIMP	0000	103.16.117.118		passw0rd	62030
+HB_SIMAK_DUPL	0000	103.245.38.67		passw0rd	62031
+HB_SIMAK_SIMP	0000	103.245.38.67		passw0rd	62030
+HB_DKI_DUPL	0000	101.255.159.50		passw0rd	62030
+HB_DKI_SIMP	0000	101.255.159.50		passw0rd	62031
+HB_DKI_DUP2	0000	101.255.159.50		passw0rd	62044
+HB_DKI_SIM2	0000	101.255.159.50		passw0rd	62054
+HB_JABAR_DUPL	0000	203.83.43.126		passw0rd	62031
+HB_JABAR_SIMP	0000	203.83.43.126		passw0rd	62030
+HB_JATNG_DUPL	0000	sr1.dmrjateng.my.id	passw0rd	62031
+HB_JATNG_SIMP	0000	sr1.dmrjateng.my.id	passw0rd	62030
+HB_JATIM_DUPL	0000	103.121.122.195		passw0rd	62031
+HB_JATIM_SIMP	0000	103.121.122.195		passw0rd	62030
+HB_SIMAK_DUPL	0000	103.245.38.67		passw0rd	62031
+HB_SIMAK_SIMP	0000	103.245.38.67		passw0rd	62030
+HB_KRAPDMR	0000	103.174.114.231		passw0rd	62030
+HB_DUMAI_SIMP	0000	103.27.206.244		xxxxxxxx	62030
+#HB_YD5NOS_SIMP	0000	103.27.206.244		xxxxxxxx	62031
+#HB_YC5NCB_DUPL	0000	1103.245.38.113		xxxxxxxx	62050
+#HB_YF3AJE_DUPL	0000	103.121.122.195		xxxxxxxx	62045
+##############################################################################################
+
+
+### Source: https://raw.githubusercontent.com/JZ10EGG/KRAP_DMR/main/DMR_Hosts.txt ###
+#	DMR_Hosts.txt
+#	Editted by Gilang Gumilar (91KMEGG/YG1AWU/JZ10EGG)
+#	Updated 01-JANUARI-2026
 ######################################################################################################
-# Name				DMR-ID	IP/Hostname				Password	Port #
+# Name				      DMR-ID	IP/Hostname			                	Password	Port #
 ######################################################################################################
-HB_K2PI_DUPLEX		0000	103.16.117.140		passw0rd	62031
-HB_K2PI_SIMPLEX		0000	103.16.117.140		passw0rd	62030
-HB_RIAU_DUPLEX		0000	103.16.117.118		passw0rd	62031
-HB_RIAU_SIMPLEX		0000	103.16.117.118		passw0rd	62030
-HB_DUMAI_DUPLEX	0000	103.27.206.244		passw0rd	62031
-HB_DUMAI_SIMPLEX	0000	103.27.206.244		passw0rd	62030
-HB_PELLWAN_DUPLEX	0000	103.245.38.67		passw0rd	62031
-HB_PELLWAN_SIMPLEX	0000	103.245.38.67		passw0rd	62030
-HB_SUNDA_DUPLEX	0000	101.255.159.50		passw0rd	62030
-HB_SUNDA_SIMPLEX	0000	101.255.159.50		passw0rd	62031
-HB_JAWBAR_DUPLEX	0000	203.83.43.126		passw0rd	62031
-HB_JAWABAR_SIMPLEX	0000	203.83.43.126		passw0rd	62030
-HB_JATENG_DUPLEX	0000	sr1.dmrjateng.my.id	passw0rd	62031
-HB_JATENG_SIMPLEX	0000	sr1.dmrjateng.my.id	passw0rd	62030
-HB_JAWTIM_DUPLEX	0000	103.121.122.195		passw0rd	62031
-HB_JAWATIM_SIMPLEX	0000	103.121.122.195		passw0rd	62030
-HB_LINK_KRAPDMR		0000	103.174.114.231		passw0rd	62030
-BNPB          0000    103.187.146.133   passw0rd  62030
+KRAP_DMR            0000    103.174.114.231                   passw0rd  62030
 ######################################################################################################
+BNPB                0000    103.174.114.98                    passw0rd  62030
+######################################################################################################
+BM_5021_Malaysia		5021	  5021.master.brandmeister.network  passw0rd	62031
+BM_5051_Australia		5051	  5051.master.brandmeister.network	passw0rd	62031
+######################################################################################################
+
