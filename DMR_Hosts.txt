@@ -6,7 +6,7 @@
 #	Custom DMR_Hosts.txt
 #
 #	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
-#	Modified by Hemi (YC5NCB)
+#	Modified by Hemi (YC5NCB) Modified by Dian (JZ10IXM)
 #	The format of this file is the name of the reflector followed by its
 #	IP address / Hotname / Password. TAB delimited only NO SPACES!!
 #
@@ -63,7 +63,7 @@ HB_DUMAI_SIMP	0000	103.27.206.244		xxxxxxxx	62030
 
 ### Source: https://raw.githubusercontent.com/JZ10EGG/KRAP_DMR/main/DMR_Hosts.txt ###
 #	DMR_Hosts.txt
-#	Editted by Gilang Gumilar (91KMEGG/YG1AWU/JZ10EGG)
+#	Editted by Gilang Gumilar (91KMEGG/YG1AWU/JZ10EGG) Modified by Dian (JZ10IXM)
 #	Updated 01-JANUARI-2026
 ######################################################################################################
 # Name				      DMR-ID	IP/Hostname			                	Password	Port #
@@ -75,4 +75,5 @@ BNPB                0000    103.174.114.98                    passw0rd  62030
 BM_5021_Malaysia		5021	  5021.master.brandmeister.network  passw0rd	62031
 BM_5051_Australia		5051	  5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
+
 
