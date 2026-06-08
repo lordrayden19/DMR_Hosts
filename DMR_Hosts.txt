@@ -73,6 +73,8 @@ KRAP_DMR            0000    103.174.114.231                   passw0rd  62030
 BNPB                0000    103.174.114.98                    passw0rd  62030
 ######################################################################################################
 TombolPTT            0000    203.175.11.129                   passw0rd  62031
+HB_TOMBOLPTT			0000	dmr.tombolptt.my.id			passw0rd	62031
+IP_TOMBOLPTT                    0000    203.175.11.129		                passw0rd        62031
 ######################################################################################################
 #BM_5021_Malaysia		5021	  5021.master.brandmeister.network  passw0rd	62031
 #BM_5051_Australia		5051	  5051.master.brandmeister.network	passw0rd	62031
@@ -80,3 +82,113 @@ TombolPTT            0000    203.175.11.129                   passw0rd  62031
 
 
 
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+##############################################################################################
+#
+#				Custom DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			Password	Port #
+##############################################################################################
+#BM_Custom_01			1234	1.2.3.4				passw0rd	62031
+#DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
+##############################################################################################
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+##############################################################################################
+#
+#				Custom DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			Password	Port #
+##############################################################################################
+#BM_Custom_01			1234	1.2.3.4				passw0rd	62031
+#DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
+##############################################################################################
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+##############################################################################################
+#
+#				Custom DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			Password	Port #
+##############################################################################################
+#BM_Custom_01			1234	1.2.3.4				passw0rd	62031
+#DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
+##############################################################################################
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+##############################################################################################
+#
+#				Custom DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			Password	Port #
+##############################################################################################
+#BM_Custom_01			1234	1.2.3.4				passw0rd	62031
+#DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
+##############################################################################################
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+##############################################################################################
+#
+#				Custom DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			Password	Port #
+##############################################################################################
+#BM_Custom_01			1234	1.2.3.4				passw0rd	62031
+#DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
+##############################################################################################
