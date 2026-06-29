@@ -72,3 +72,96 @@ HB_TOMBOLPTT	0000	dmr.tombolptt.my.id	passw0rd	62031
 IP_TOMBOLPTT	0000	203.175.11.129	passw0rd	62031
 ######################################################################################################
 
+
+############################################################
+# Gabungan DMR Hosts - Auto Generated: 2026-01-23 15:26:51
+############################################################
+
+### Source: http://k2pi.org/data/DMR_Hosts.txt ###
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#	Modified by Hemi (YC5NCB) Modified by Dian (JZ10IXM)
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+######################################################################################################
+#
+#				BrandMeister Hosts Below
+#
+######################################################################################################
+# Country			DMR-ID	IP/Hostname				Password	Port #
+######################################################################################################
+#BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
+#BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
+######################################################################################################
+#
+#				K2PI DMR Hosts
+#
+##############################################################################################
+# Name		DMR-ID	IP/Hostname	Password 	Port #
+##############################################################################################
+#HB_GLB1_DUPL	0000	103.27.206.134	passw0rd	62030
+#HB_GLB2_DUPL	0000	103.27.206.134	passw0rd	62031
+#HB_K2PI_DUPL	0000	103.245.38.113	passw0rd	62031
+HB_K2PI_SIMP	0000	103.245.38.113	passw0rd	62030
+#HB_PLW_DUPL	0000	103.16.117.140	passw0rd	62031
+HB_PLW_SIMP	0000	103.16.117.140	passw0rd	62030
+#HB_RIAU_DUPL	0000	103.16.117.118	passw0rd	62031
+HB_RIAU_SIMP	0000	103.16.117.118	passw0rd	62030
+#HB_SIMAK_DUPL	0000	103.245.38.67	passw0rd	62031
+HB_SIMAK_SIMP	0000	103.245.38.67	passw0rd	62030
+#HB_DKI_DUPL	0000	101.255.159.50	passw0rd	62030
+HB_DKI_SIMP	0000	101.255.159.50	passw0rd	62031
+#HB_DKI_DUP2	0000	101.255.159.50	passw0rd	62044
+HB_DKI_SIM2	0000	101.255.159.50	passw0rd	62054
+#HB_JABAR_DUPL	0000	203.83.43.126	passw0rd	62031
+HB_JABAR_SIMP	0000	203.83.43.126	passw0rd	62030
+#HB_JATNG_DUPL	0000	sr1.dmrjateng.my.id	passw0rd	62031
+HB_JATNG_SIMP	0000	sr1.dmrjateng.my.id	passw0rd	62030
+#HB_JATIM_DUPL	0000	103.121.122.195	passw0rd	62031
+HB_JATIM_SIMP	0000	103.121.122.195	passw0rd	62030
+#HB_SIMAK_DUPL	0000	103.245.38.67	passw0rd	62031
+HB_SIMAK_SIMP	0000	103.245.38.67	passw0rd	62030
+#HB_KRAPDMR	0000	103.174.114.231	passw0rd	62030
+######################################################################################################
+# Name		DMR-ID	IP/Hostname	Password	Port #
+######################################################################################################
+KRAP_DMR	0000	103.174.114.231	passw0rd	62030
+BNPB	0000	103.174.114.98	passw0rd	62030
+HB_TOMBOLPTT	0000	dmr.tombolptt.my.id	passw0rd	62031
+IP_TOMBOLPTT	0000	203.175.11.129	passw0rd	62031
+######################################################################################################
+### Source: https://raw.githubusercontent.com/JZ10EGG/KRAP_DMR/main/DMR_Hosts.txt ###
+#	DMR_Hosts.txt
+#	Editted by Gilang Gumilar (91KMEGG/YG1AWU/JZ10EGG) Modified by Dian (JZ10IXM)
+#	Updated 02-FEBRUARI-2026
+#	Custom DMR_Hosts.txt
+#
+#	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
+#
+#	The format of this file is the name of the reflector followed by its
+#	IP address / Hotname / Password. TAB delimited only NO SPACES!!
+#
+#	Please ensure BrandMeister Masters are prefixed with BM_
+#	Please ensure Phoenix / DMR+ Masters are prefixed with DMR+_
+#
+#	Passwords / Ports ARE important too!
+#
+##############################################################################################
+#
+#				Custom DMR Hosts
+#
+##############################################################################################
+# Name				DMR-ID	IP/Hostname			Password	Port #
+##############################################################################################
+#BM_Custom_01			1234	1.2.3.4				passw0rd	62031
+#DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
+##############################################################################################
+
+
